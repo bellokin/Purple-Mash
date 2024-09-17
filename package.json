@@ -1,0 +1,32 @@
+{
+  "name": "Purple-Mash",
+  "displayName": "Purple-Mash ",
+  "description": "A theme for all purple heads out there !!!",
+  "version": "0.0.1",
+  "publisher": "CodeHashira",
+  "keywords": [
+    "theme",
+    "purple",
+    "mash",
+    "purple-mash",
+    "Purple-Mash",
+    "Purple Themes",
+    "Dark",
+    "Dark Purple Themes"
+  ],
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple-Mash ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple-Mash -color-theme.json"
+      }
+    ]
+  }
+}
